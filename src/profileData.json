@@ -1,0 +1,29 @@
+{
+  "name": "Anuj Gosalia",
+  "username": "anujgosalia",
+  "designation": "Co-founder & CEO at Terribly Tiny Tales",
+  "website": "http://www.instagram.com/anujgosalia",
+  "followers": "6482",
+  "following": "245",
+  "posts": "134",
+  "articles": [
+    {
+      "title": "Our Nature",
+      "description": "In nature's embrace, whispers of wisdom unfold, Where the sun paints the sky in hues of gold. Amidst the rustling leaves and rivers that roam, Life's timeless lessons, in every breeze, find home.",
+      "readTime": "2 mins",
+      "views": "102"
+    },
+    {
+      "title": "The world",
+      "description": "In nature's embrace, whispers of wisdom unfold, Where the sun paints the sky in hues of gold. Amidst the rustling leaves and rivers that roam, Life's timeless lessons, in every breeze, find home.",
+      "readTime": "7 mins",
+      "views": "156"
+    },
+    {
+      "title": "Where the sun paints the sky in hues of gold",
+      "description": "In nature's embrace, whispers of wisdom unfold, Where the sun paints the sky in hues of gold. Amidst the rustling leaves and rivers that roam, Life's timeless lessons, in every breeze, find home.",
+      "readTime": "15 min",
+      "views": "228"
+    }
+  ]
+}

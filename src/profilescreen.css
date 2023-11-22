@@ -1,0 +1,135 @@
+.navbar {
+  background: black;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px;
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  
+}
+
+
+.dp {
+  margin-right: 10px;
+}
+
+.courses-btn {
+  color: black;
+  background: #ffdf00;
+  border: none;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+}
+
+.bg {
+  margin-top: 2%;
+  width: 100%;
+  height: auto;
+
+}
+@media (max-width: 668px) {
+  .bg {
+    margin-top: 10%;
+    width: 100%;
+    height: auto; 
+  }
+}
+
+
+
+.profile-header img {
+  border: 2px solid gray;
+  width: 20%;
+  
+  border-radius: 50%;
+  margin-left: 4%;
+  margin-top: -10%;
+ 
+}
+
+
+.profile-header h2  {
+  text-align: center;
+  
+  margin-top: -10%;
+}
+
+.profile-info h5  {
+  text-align: center;
+  border-color: beige;
+  color: lightgray;
+
+}
+
+.profile-info {
+  display: flex;
+  flex-direction: row; 
+  align-items: center;
+  justify-content: center;
+}
+
+.profile-info button {
+  color: lightgray;
+  border-radius: 26%;
+  background: transparent;
+  border: solid 2px lightgray;
+  padding: 8px 12px;
+  border-radius: 5px;
+  font-weight: bold;
+  margin: 0 5px; 
+}
+
+.profile-header  h6{
+  color: lightgray;
+  font-size: 8px;
+  text-align: center;
+  margin-top: -0px;
+}
+
+.designation {
+  font-family: 'Alkes', sans-serif;
+  margin-left: 5%;
+  margin-top: 5%;
+}
+
+a {
+  margin-left: 5%;
+}
+
+.view path {
+  
+  fill: none;
+  stroke-width: 0.01px;
+  stroke: black;
+  
+
+
+
+}
+
+.article-item {
+  border-bottom: 1px solid lightgray;
+  padding-bottom: 10px;
+  margin-bottom: 10px; 
+}
+
+
+.like {
+  text-align: right;
+  margin-right: 6%;
+  margin-top: -4.5%;
+
+}
+
+.views {
+  text-align: right;
+  margin-right: 6%;
+}
+
+
+
+
